@@ -1,5 +1,0 @@
-pandas==1.2.5
-plotly==5.1.0
-matplotlib==3.4.2
-sklearn==0.24.2
-numpy==1.21.0
